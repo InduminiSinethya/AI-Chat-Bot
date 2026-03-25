@@ -1,0 +1,22 @@
+/* Editor styling */
+.editor {
+    flex: 1;
+    background: #1f2937;
+    color: #ffffff;
+    padding: 12px;
+    border-radius: 8px;
+    resize: none;
+    outline: none;
+    font-size: 14px;
+}
+
+/* Output styling */
+.output {
+    flex: 1;
+    background: #1f2937;
+    padding: 12px;
+    border-radius: 8px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    font-size: 14px;
+}
